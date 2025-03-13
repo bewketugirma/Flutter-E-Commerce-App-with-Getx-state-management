@@ -1,16 +1,25 @@
-# get_tutorial
+# 🛍️ Flutter E-Commerce App with GetX
 
-A new Flutter project.
+A modern **Flutter E-Commerce App** that fetches product data from [FakeStoreAPI](https://fakestoreapi.com/products). Built using **Flutter, GetX, and HTTP**, the app provides a clean UI with a shopping cart feature.
 
-## Getting Started
+## ✨ Features
+✅ Fetch products from [FakeStoreAPI](https://fakestoreapi.com/products)  
+✅ **State management** using GetX  
+✅ Beautiful **AppBar** with gradient design  
+✅ **Grid layout** for products  
+✅ **Reusable Product Card** with image, price, and Add to Cart button  
+✅ **MVVM Architecture** for better code structure  
 
-This project is a starting point for a Flutter application.
+## 🚀 Tech Stack
+- **Flutter** (Latest)
+- **Dart**
+- **GetX** (State Management)
+- **HTTP** (API Calls)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1️⃣ Clone the repository
+```sh
+git clone https://github.com/bewketugirma/Flutter-E-Commerce-App-with-Getx-state-management.git
+cd flutter-ecommerce-app
